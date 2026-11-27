@@ -217,8 +217,9 @@ L'ordre des profils est cohérent avec l'analyse (risque qui augmente avec la du
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/mdtech-ai/NOM-DU-DEPOT.git
-cd NOM-DU-DEPOT
+git clone https://github.com/mdtech-ai/credit-risk-intelligence-ml.git
+cd credit-risk-intelligence-ml
+
 
 # 2. Créer et activer un environnement virtuel
 python -m venv .venv
