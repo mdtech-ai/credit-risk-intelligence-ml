@@ -280,14 +280,3 @@ Le modèle (`.pkl`) et les encodeurs doivent se trouver dans le même dossier qu
 6. **Analyse de portefeuille** : importer un fichier CSV de plusieurs dossiers et obtenir la part de dossiers signalés.
 7. **Page de performance du modèle** dans l'application (AUC, matrice de confusion, limites).
 8. Tester d'autres jeux de données plus récents ou mieux adaptés au contexte ouest-africain.
-
----
-
-## Auteur
-
-**Mamadou DIALLO** : diplômé en ingénierie IA et Big Data (ESP-UCAD, Dakar), à la recherche d'un premier poste en Data Science et Machine Learning, avec un intérêt marqué pour le secteur bancaire.
-
-- GitHub : [github.com/mdtech-ai](https://github.com/mdtech-ai)
-- LinkedIn : [VOTRE-PROFIL](https://www.linkedin.com/in/VOTRE-PROFIL)
-
-*Données : Statlog (German Credit Data), UCI Machine Learning Repository (Hans Hofmann, Université de Hambourg).*
