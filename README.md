@@ -12,7 +12,7 @@ Ce projet estime la **probabilité de défaut** d'une demande de crédit à part
 
 👉 **[Essayer l'application](https://credit-risk-intelligence-ml-bank.streamlit.app/)**
 
-> ⚠️ **Projet pédagogique.** Les données sont anciennes (années 1990, Allemagne) et le jeu est petit. Le modèle ne doit pas servir à prendre de vraies décisions de crédit. Voir la section [Limites](#limites-et-précautions).
+> ⚠️ **Note:** Les données sont anciennes (années 1990, Allemagne) et le jeu est petit.  Voir la section [Limites](#limites-et-précautions).
 
 ---
 
@@ -39,7 +39,7 @@ Ce projet estime la **probabilité de défaut** d'une demande de crédit à part
 
 | Saisie du dossier | Résultat de l'évaluation |
 |---|---|
-| ![Formulaire de saisie](docs/images/formulaire.png) | ![Résultat de l'évaluation](docs/images/resultat.png) |
+| ![Formulaire de saisie](docs/images/Img1_saisie_utilisateur.png) | ![Résultat de l'évaluation](docs/images/Img2_Evaluation_risque.png) |
 
 ---
 
@@ -248,7 +248,7 @@ Le modèle (`.pkl`) et les encodeurs doivent se trouver dans le même dossier qu
 ├── logement_encoder.pkl
 ├── compte_epargne_encoder.pkl
 ├── compte_courant_encoder.pkl
-├── notebooks/                  # Analyse et modélisation (à adapter au nom réel)
+├── notebooks/                  # Analyse et modélisation 
 ├── docs/images/                # Captures d'écran du README
 └── README.md
 ```
