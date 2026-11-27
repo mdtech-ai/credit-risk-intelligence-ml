@@ -31,8 +31,6 @@ Ce projet estime la **probabilité de défaut** d'une demande de crédit à part
 11. [Structure du dépôt](#structure-du-dépôt)
 12. [Limites et précautions](#limites-et-précautions)
 13. [Pistes d'amélioration](#pistes-damélioration)
-14. [Auteur](#auteur)
-
 ---
 
 ## Aperçu
